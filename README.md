@@ -9,3 +9,5 @@ This project focuses on supply chain analytics for a **Fashion and Beauty startu
 5. **Supply Chain Costs**: Breaks down costs by type and time.  
 
 A **Power BI dashboard** visualizes this data, integrating sheets for a cohesive layout with filters and interactive elements for detailed exploration. This tool enables data-driven decision-making across supply chain operations.
+
+Tools Used:- Power BI, Excel
